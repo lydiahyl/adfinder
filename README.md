@@ -24,8 +24,6 @@ Ad Finder is a web application built with **Python**, **Django**, **Tailwind CSS
 
 ## 📸 Screenshot
 
-![Ad Finder Screenshot]
-![image](https://github.com/user-attachments/assets/7de4e9ae-3402-4fe9-9a6c-d454f1477eee)
 ![image](https://github.com/user-attachments/assets/9057dc25-7cf5-4832-ba72-465d92afdafe)
 
 
@@ -44,7 +42,7 @@ Ad Finder is a web application built with **Python**, **Django**, **Tailwind CSS
 ## 🧰 Installation
 
 ```bash
-git clone https://github.com/your-username/ad-finder.git
+git clone [https://github.com/your-username/ad-finder.git](https://github.com/lydiahyl/adfinder.git)
 cd ad-finder
 python -m venv env
 source env/bin/activate  # or env\Scripts\activate on Windows
